@@ -44,13 +44,5 @@
 
 ## 📊 成果展示 (Results)
 
-### 淨值曲線 (Equity Curve)
-![Equity Curve](results/equity_curve.png)
+![lin神隔日沖策略 NAV](lin神隔日沖策略.png)
 
-### 最大回撤 (Drawdown)
-![Drawdown](results/drawdown.png)
-
-### 月度報酬熱力圖 (Monthly Returns Heatmap)
-![Monthly Heatmap](results/monthly_returns_heatmap.png)
-
-更多詳細數據請見 [`results/`](results/) 目錄。
